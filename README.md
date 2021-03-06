@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Glad to visit my GitHub profile
+- 🍊 My name is Huang Xin, and I am going to Huazhong University of Science and Technology for postgraduate study
+- 📚 Research interests: machine learning, data mining, natural language processing
+- 💻 I am very interested in computers and hope to improve my programming ability
+- 📬 If you have any questions, please contact me at 5979012@qq.com
