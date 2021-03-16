@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🍊 My name is Huang Xin, and I am going to Huazhong University of Science and Technology for postgraduate study
-- 📚 Research interests: machine learning, data mining, natural language processing
+- 📚 Research interests: natural language processing for code
 - 💻 I am very interested in programming, and I‘ll always keep practicing
 - 📬 If you have any questions, please contact me at 5979012@qq.com
