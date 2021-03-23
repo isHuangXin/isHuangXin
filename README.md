@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🍊 I will continue postgraduate study in computer science at Huazhong University of Science and Technology this September.
-- 📚 My Research interests: Machine Learning, Natural Language Processing for Code.
-- 💻 I’m currently working on designing code-to-code matching algorithm.
-- 📬 If you have any questions, please contact me at husthuangxin@gmail.com
+- 🍊  I will continue postgraduate study in computer science at Huazhong University of Science and Technology this September.
+- 📚  My Research interests: Machine Learning, Natural Language Processing for Code.
+- 💻  I’m currently working on designing code-to-code matching algorithm.
+- 📬  If you have any questions, please contact me at husthuangxin@gmail.com
