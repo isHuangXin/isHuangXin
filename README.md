@@ -24,3 +24,15 @@ Here are some ideas to get you started:
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isHuangXin)
+
+<!--START_SECTION:waka-->
+```text
+Week: 07 June, 2022 - 13 June, 2022
+
+C++        7 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Markdown   5 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
+Assembly   5 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Python     3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Other      1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+```
+<!--END_SECTION:waka-->
