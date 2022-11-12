@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📚 My research interests: Machine Learning, Compilation principle, Natural Language Processing for Code(NLP4Code).
 - 💻 I’m currently working on designing and code-to-code matching algorithm.-->
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
+- 🔭 Currently focusing on database system and modern cpp
 - 📬 How to reach me: huangxin.hust@gmail.com
 
 
