@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on designing and code-to-code matching algorithm.-->
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
 - 🔭 Currently focusing on database system and modern cpp
-- 📬 How to reach me: huangxin.hust@gmail.com
+- 📬 How to reach me: ishuangxin@hust.edu.cn
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isHuangXin)
