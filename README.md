@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - 📚 My research interests: Machine Learning, Compilation principle, Natural Language Processing for Code(NLP4Code).
 - 💻 I’m currently working on designing and code-to-code matching algorithm.-->
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
-- 🔭 Currently focusing on database system and modern cpp
+- 🔭 Currently focusing on database system、modern cpp and backend.
 - 📬 How to reach me: ishuangxin@hust.edu.cn
+- 😄 Looking for jobs/internships in 2024.
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isHuangXin)
