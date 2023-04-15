@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
 ### I'm Xin Huang
 
-- 🔭 Currently focusing on: Backend（Java）、Distributed & Database System.
+- 🔭 Currently focusing on: Backend（Java）、Distributed & Database Systems.
 - 📬 How to reach me: ishuangxin@hust.edu.cn
 - 😄 Looking for jobs/internships in 2024.
 
