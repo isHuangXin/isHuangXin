@@ -23,11 +23,23 @@ Here are some ideas to get you started:
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
 ### I'm Xin Huang
 
-- 🔭 Interests focusing on: Backend（Java）、Distributed & Database Systems, AIGC & Code Intelligence
+- 🔭 Interests focusing on: Backend（Java）、Distributed & Database Systems
+- 📚 Master's degree research direction: [AIGC & Code Intelligence Cooperate with Tencent](https://github.com/isHuangXin/graphcodebert-two-stage-hash-code-search)
 - ⚡ Open-source projects currently in progress: [Add a Kafka Source Connector](https://issues.apache.org/jira/browse/GSOC-140)、[CDC](https://github.com/apache/shardingsphere/issues/24869)
-- 📬 How to reach me: ishuangxin@hust.edu.cn
+- 📬 How to reach me: ishuangxin@hust.edu.cn, is_HuangXin (Wechat)
 - 😄 Looking for jobs/internships in 2023.
   - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE)
+
+<!-- Expected to gradute in 2024 & -->
+<!-- Master's degree research direction, expected to gradute in 2024 -->
+<!-- - Code Intelligence & AIGC -->
+<!-- - Fast Code Search & Cooperate with Tencent -->
+
+<!-- 📬 Feel free to contact me :)
+
+- Email: ishuangxin@hust.edu.cn
+- WeChat: is_HuangXin -->
+
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isHuangXin)
