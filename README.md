@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 📚 Master's degree research direction: [AIGC & Code Intelligence Cooperate with Tencent](https://github.com/isHuangXin/graphcodebert-two-stage-hash-code-search)
 - 📬 How to reach me: ishuangxin@hust.edu.cn, is_HuangXin (Wechat)
 - 😄 Looking for jobs/internships in 2023.
-  - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE)
-<!-- - ⚡ Open-source projects currently in progress: [Add a Kafka Source Connector](https://issues.apache.org/jira/browse/GSOC-140)、[CDC](https://github.com/apache/shardingsphere/issues/24869) -->
+<!--   - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE) -->
+<!-- Summer Internship 2023 @oceanbase |  -->
 
 ⚡ Open-source projects currently in progress: 
 - [Add a Kafka Source Connector](https://issues.apache.org/jira/browse/GSOC-140)、[CDC](https://github.com/apache/shardingsphere/issues/24869)
