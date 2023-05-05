@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Open-source projects currently in progress: [Add a Kafka Source Connector](https://issues.apache.org/jira/browse/GSOC-140)、[CDC](https://github.com/apache/shardingsphere/issues/24869)
 - 📬 How to reach me: ishuangxin@hust.edu.cn
 - 😄 Looking for jobs/internships in 2024.
-<!--   - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE) -->
+  - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE)
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isHuangXin)
