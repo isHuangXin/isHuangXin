@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - 💻 My current interests: Natural Language Processing for Code(NLP4Code), Compilers Principles. -->
 ### I'm Xin Huang
 
-- 🔭 Interests focusing on: Backend（Java）、Distributed & Database Systems
+- 🔭 Interests focusing on: Backend（Java）、Distributed & Database Systems（C++）
 - 📚 Master's degree research direction: [AIGC & Code Intelligence Cooperate with Tencent](https://github.com/isHuangXin/graphcodebert-two-stage-hash-code-search)
 - 📬 How to reach me: ishuangxin@hust.edu.cn, is_HuangXin (Wechat)
 - 😄 Looking for jobs/internships/Ph.D in 2023.
