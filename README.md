@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 Interests focusing on: Backend（Java）、Distributed & Database Systems（C++）
 - 📚 Master's degree research direction: [AIGC & Code Intelligence Cooperate with Tencent](https://github.com/isHuangXin/graphcodebert-two-stage-hash-code-search)
 - 📬 How to reach me: ishuangxin@hust.edu.cn, is_HuangXin (Wechat)
-- 😄 Looking for jobs/internships/Ph.D in 2023.
+- 😄 Currently Intership @Alibaba. Looking for jobs/internships/Ph.D in 2023.
 <!--   - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE) -->
 <!-- Summer Internship 2023 @oceanbase |  -->
 
