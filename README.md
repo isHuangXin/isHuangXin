@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### I'm Xin Huang
 
 <!--- 🔭 Interests focusing on: Distributed Storage & Database Systems（C++）、System for AI (LLMs) -->
-- 🔭 Interests focusing on: Computer Architecture (Storage Systems, MLSys, GPU) & Generative AI.
+- 🔭 Interests focusing on: Computer Architecture & Systems(Storage, MLSys, GPU-Memory) and Generative AI.
 - 📚 Master's degree research direction: [Pre-trained Large Language Models for Source Code](https://github.com/isHuangXin/graphcodebert-two-stage-hash-code-search)
 - 😄 Currently Intership @Huawei Ascend NPU - AI Inference Acceleration Team, Ex-Intership @Alibaba.
 - ⚡ Looking for a Ph.D. in 2024.
