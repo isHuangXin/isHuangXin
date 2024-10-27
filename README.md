@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - 😄 Currently Permanent @Huawei Ascend NPU - AI Inference Acceleration Team, Ex-Intership @Alibaba.
 - ⚡ Looking for a Ph.D. in 2024/2025.
 - 📬 How to reach me: ishuangxin@hust.edu.cn
+<!--- sk-w0C7ToiD2oV2mX7d4384C9E027A94703AfCeA8AbEf82D4Bd -->
 <!--   - I currently got a summer internship at [OceanBase](https://en.oceanbase.com/?utm_source=google_ads&utm_medium=keywords&utm_campaign=othersbrand&utm_term=exa_oceanbase&gclid=CjwKCAjwl6OiBhA2EiwAuUwWZSlmumxoKGc_fgEIKuCFwdaQS7hVXCoJe9KXLPMpcpPlIybqJDFY-xoCk8YQAvD_BwE) -->
 <!-- Summer Internship 2023 @oceanbase |  -->
 
