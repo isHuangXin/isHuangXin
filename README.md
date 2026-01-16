@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### I'm Xin Huang
 
 <!--- 🔭 Interests focusing on: Distributed Storage & Database Systems（C++）、System for AI (LLMs) -->
-- 🔭 Interests focusing on: Computer Systems(LLMSys, GPUSys, StorageSys).
+- 🔭 Interests focusing on: Computer Systems (LLMSys, GPUSys, StorageSys).
 - 😄 Currently Permanent @Huawei Ascend NPU - MindIE AI Inference Team, Ex-Internship @Alibaba.
 <!--- - ⚡ Looking for a Ph.D. in 2024/2025. -->
 - 📬 How to reach me: huangxin.hust@gmail.com
